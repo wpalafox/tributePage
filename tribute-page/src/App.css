@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive');
 
 .App {
-  text-align: center;
+  
+  display: flex;
+  justify-content: flex-end;
 }
 
 .title {
@@ -14,6 +16,13 @@ img {
   border-radius: 50%;
   width: 60%;
   height: 60%;
+
+
+
+}
+
+.factItem {
+  font-family: cedarville cursive;
 
 
 
